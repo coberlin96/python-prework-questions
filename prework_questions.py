@@ -1,8 +1,5 @@
 #Question 1: 
 #Write a function to print "hello_USERNAME!" USERNAME is the input of the function.
-from operator import truediv
-
-
 def hello_name(user_name):
     """function prints a greeting message"""
     print('hello_'+user_name)
